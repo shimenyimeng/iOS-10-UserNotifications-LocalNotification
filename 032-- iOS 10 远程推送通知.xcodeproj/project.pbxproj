@@ -160,6 +160,7 @@
 				TargetAttributes = {
 					042E291F1DDAA9A700F23617 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = YF5P95RLXZ;
 						ProvisioningStyle = Automatic;
 					};
 					042E29381DDAA9A700F23617 = {
@@ -349,6 +350,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = YF5P95RLXZ;
 				INFOPLIST_FILE = "032-- iOS 10 远程推送通知/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "guxuefei.-32---iOS-10-------";
@@ -360,6 +362,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = YF5P95RLXZ;
 				INFOPLIST_FILE = "032-- iOS 10 远程推送通知/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "guxuefei.-32---iOS-10-------";
