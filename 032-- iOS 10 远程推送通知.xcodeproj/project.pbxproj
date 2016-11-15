@@ -1,0 +1,423 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		042E29251DDAA9A700F23617 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 042E29241DDAA9A700F23617 /* main.m */; };
+		042E29281DDAA9A700F23617 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 042E29271DDAA9A700F23617 /* AppDelegate.m */; };
+		042E292B1DDAA9A700F23617 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 042E292A1DDAA9A700F23617 /* ViewController.m */; };
+		042E292E1DDAA9A700F23617 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 042E292C1DDAA9A700F23617 /* Main.storyboard */; };
+		042E29301DDAA9A700F23617 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 042E292F1DDAA9A700F23617 /* Assets.xcassets */; };
+		042E29331DDAA9A700F23617 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 042E29311DDAA9A700F23617 /* LaunchScreen.storyboard */; };
+		042E293E1DDAA9A700F23617 /* _32___iOS_10_______UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 042E293D1DDAA9A700F23617 /* _32___iOS_10_______UITests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		042E293A1DDAA9A700F23617 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 042E29181DDAA9A700F23617 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 042E291F1DDAA9A700F23617;
+			remoteInfo = "032-- iOS 10 远程推送通知";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		042E29201DDAA9A700F23617 /* 032-- iOS 10 远程推送通知.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "032-- iOS 10 远程推送通知.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		042E29241DDAA9A700F23617 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		042E29261DDAA9A700F23617 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		042E29271DDAA9A700F23617 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		042E29291DDAA9A700F23617 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		042E292A1DDAA9A700F23617 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		042E292D1DDAA9A700F23617 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		042E292F1DDAA9A700F23617 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		042E29321DDAA9A700F23617 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		042E29341DDAA9A700F23617 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		042E29391DDAA9A700F23617 /* 032-- iOS 10 远程推送通知UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "032-- iOS 10 远程推送通知UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		042E293D1DDAA9A700F23617 /* _32___iOS_10_______UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "_32___iOS_10_______UITests.m"; sourceTree = "<group>"; };
+		042E293F1DDAA9A700F23617 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		042E291D1DDAA9A700F23617 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		042E29361DDAA9A700F23617 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		042E29171DDAA9A700F23617 = {
+			isa = PBXGroup;
+			children = (
+				042E29221DDAA9A700F23617 /* 032-- iOS 10 远程推送通知 */,
+				042E293C1DDAA9A700F23617 /* 032-- iOS 10 远程推送通知UITests */,
+				042E29211DDAA9A700F23617 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		042E29211DDAA9A700F23617 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				042E29201DDAA9A700F23617 /* 032-- iOS 10 远程推送通知.app */,
+				042E29391DDAA9A700F23617 /* 032-- iOS 10 远程推送通知UITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		042E29221DDAA9A700F23617 /* 032-- iOS 10 远程推送通知 */ = {
+			isa = PBXGroup;
+			children = (
+				042E29261DDAA9A700F23617 /* AppDelegate.h */,
+				042E29271DDAA9A700F23617 /* AppDelegate.m */,
+				042E29291DDAA9A700F23617 /* ViewController.h */,
+				042E292A1DDAA9A700F23617 /* ViewController.m */,
+				042E292C1DDAA9A700F23617 /* Main.storyboard */,
+				042E292F1DDAA9A700F23617 /* Assets.xcassets */,
+				042E29311DDAA9A700F23617 /* LaunchScreen.storyboard */,
+				042E29341DDAA9A700F23617 /* Info.plist */,
+				042E29231DDAA9A700F23617 /* Supporting Files */,
+			);
+			path = "032-- iOS 10 远程推送通知";
+			sourceTree = "<group>";
+		};
+		042E29231DDAA9A700F23617 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				042E29241DDAA9A700F23617 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		042E293C1DDAA9A700F23617 /* 032-- iOS 10 远程推送通知UITests */ = {
+			isa = PBXGroup;
+			children = (
+				042E293D1DDAA9A700F23617 /* _32___iOS_10_______UITests.m */,
+				042E293F1DDAA9A700F23617 /* Info.plist */,
+			);
+			path = "032-- iOS 10 远程推送通知UITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		042E291F1DDAA9A700F23617 /* 032-- iOS 10 远程推送通知 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 042E29421DDAA9A700F23617 /* Build configuration list for PBXNativeTarget "032-- iOS 10 远程推送通知" */;
+			buildPhases = (
+				042E291C1DDAA9A700F23617 /* Sources */,
+				042E291D1DDAA9A700F23617 /* Frameworks */,
+				042E291E1DDAA9A700F23617 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "032-- iOS 10 远程推送通知";
+			productName = "032-- iOS 10 远程推送通知";
+			productReference = 042E29201DDAA9A700F23617 /* 032-- iOS 10 远程推送通知.app */;
+			productType = "com.apple.product-type.application";
+		};
+		042E29381DDAA9A700F23617 /* 032-- iOS 10 远程推送通知UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 042E29451DDAA9A700F23617 /* Build configuration list for PBXNativeTarget "032-- iOS 10 远程推送通知UITests" */;
+			buildPhases = (
+				042E29351DDAA9A700F23617 /* Sources */,
+				042E29361DDAA9A700F23617 /* Frameworks */,
+				042E29371DDAA9A700F23617 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				042E293B1DDAA9A700F23617 /* PBXTargetDependency */,
+			);
+			name = "032-- iOS 10 远程推送通知UITests";
+			productName = "032-- iOS 10 远程推送通知UITests";
+			productReference = 042E29391DDAA9A700F23617 /* 032-- iOS 10 远程推送通知UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		042E29181DDAA9A700F23617 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0800;
+				ORGANIZATIONNAME = mac;
+				TargetAttributes = {
+					042E291F1DDAA9A700F23617 = {
+						CreatedOnToolsVersion = 8.0;
+						ProvisioningStyle = Automatic;
+					};
+					042E29381DDAA9A700F23617 = {
+						CreatedOnToolsVersion = 8.0;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 042E291F1DDAA9A700F23617;
+					};
+				};
+			};
+			buildConfigurationList = 042E291B1DDAA9A700F23617 /* Build configuration list for PBXProject "032-- iOS 10 远程推送通知" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 042E29171DDAA9A700F23617;
+			productRefGroup = 042E29211DDAA9A700F23617 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				042E291F1DDAA9A700F23617 /* 032-- iOS 10 远程推送通知 */,
+				042E29381DDAA9A700F23617 /* 032-- iOS 10 远程推送通知UITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		042E291E1DDAA9A700F23617 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				042E29331DDAA9A700F23617 /* LaunchScreen.storyboard in Resources */,
+				042E29301DDAA9A700F23617 /* Assets.xcassets in Resources */,
+				042E292E1DDAA9A700F23617 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		042E29371DDAA9A700F23617 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		042E291C1DDAA9A700F23617 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				042E292B1DDAA9A700F23617 /* ViewController.m in Sources */,
+				042E29281DDAA9A700F23617 /* AppDelegate.m in Sources */,
+				042E29251DDAA9A700F23617 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		042E29351DDAA9A700F23617 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				042E293E1DDAA9A700F23617 /* _32___iOS_10_______UITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		042E293B1DDAA9A700F23617 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 042E291F1DDAA9A700F23617 /* 032-- iOS 10 远程推送通知 */;
+			targetProxy = 042E293A1DDAA9A700F23617 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		042E292C1DDAA9A700F23617 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				042E292D1DDAA9A700F23617 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		042E29311DDAA9A700F23617 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				042E29321DDAA9A700F23617 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		042E29401DDAA9A700F23617 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		042E29411DDAA9A700F23617 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		042E29431DDAA9A700F23617 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "032-- iOS 10 远程推送通知/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "guxuefei.-32---iOS-10-------";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		042E29441DDAA9A700F23617 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "032-- iOS 10 远程推送通知/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "guxuefei.-32---iOS-10-------";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		042E29461DDAA9A700F23617 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "032-- iOS 10 远程推送通知UITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "guxuefei.-32---iOS-10-------UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = "032-- iOS 10 远程推送通知";
+			};
+			name = Debug;
+		};
+		042E29471DDAA9A700F23617 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "032-- iOS 10 远程推送通知UITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "guxuefei.-32---iOS-10-------UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = "032-- iOS 10 远程推送通知";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		042E291B1DDAA9A700F23617 /* Build configuration list for PBXProject "032-- iOS 10 远程推送通知" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				042E29401DDAA9A700F23617 /* Debug */,
+				042E29411DDAA9A700F23617 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		042E29421DDAA9A700F23617 /* Build configuration list for PBXNativeTarget "032-- iOS 10 远程推送通知" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				042E29431DDAA9A700F23617 /* Debug */,
+				042E29441DDAA9A700F23617 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		042E29451DDAA9A700F23617 /* Build configuration list for PBXNativeTarget "032-- iOS 10 远程推送通知UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				042E29461DDAA9A700F23617 /* Debug */,
+				042E29471DDAA9A700F23617 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 042E29181DDAA9A700F23617 /* Project object */;
+}
